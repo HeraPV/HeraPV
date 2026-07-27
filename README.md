@@ -1,8 +1,3 @@
----
-
-**برای HeraPV:**
-
-```html
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/HeraPV/HeraPV/main/assets/hera-profile.jpg" 
