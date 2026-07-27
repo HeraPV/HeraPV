@@ -1,23 +1,61 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HeraPV/HeraPV/main/assets/hera-profile.jpg" 
-     alt="𝐇𝐞𝐫𝐚" 
-     width="100%" 
-     style="border-radius: 16px; border: 3px solid #4b0082; box-shadow: 0 0 40px rgba(139, 0, 139, 0.6);">
+# ✨ 𝐻𝑒𝓇𝒶𝒫𝒱 ✨  
+### 🦚 Queen of the Digital Olympus 🦚
 
-<h1 style="color: #e0b0ff; font-family: Georgia, serif; text-shadow: 0 0 30px #8b008b; letter-spacing: 4px; margin: 20px 0 8px;">
-  𝐇𝐞𝐫𝐚
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a18cd1,50:fbc2eb,100:fad0c4&height=200&section=header&text=HeraPV&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20the%20Heavenly%20Realm&descAlignY=55&descSize=18" width="100%"/>
 
-<p style="color: #c8a2c8; font-size: 1.35em; margin-top: 0;">
-  <em>Empress of Olympus — Queen of Heaven and Wrath</em>
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+### ☁️ From the Cloudy Palace of Olympus to the Heart of Code ☁️  
+**Ruler of the Digital Heaven | Guardian of Beauty & Power**
 
 </div>
 
 ---
 
-### 🌑 
+### 🌌 About Me
+In the boundless realm of code and creativity, I am **HeraPV** —  
+Goddess of the skies, guardian of harmony and eternal beauty.  
+With a crown of peacock feathers and a robe woven from stars,  
+I walk through the heavenly lands of GitHub.
 
-```txt
-**"Hera, the crowned queen of Olympus, rules with a gaze that can both cradle empires and shatter the hearts of gods."**
+> “The eyes of the peacock never sleep…  
+> and my code never fades.”
+
+---
+
+### 🦚 My Divine Symbols
+| Symbol | Meaning |
+|--------|---------|
+| 🦚 **Peacock** | Beauty, eternal vigilance & majesty |
+| 👑 **Crown of Olympus** | Sovereignty and authority |
+| ☁️ **Heavenly Clouds** | Serenity and inspiration |
+| 🌸 **Pomegranate & Lily** | Immortality and purity |
+
+---
+
+### ✨ What Flows in My Realm
+- 🌌 Crafting digital worlds with divine elegance  
+- 💎 Clean, beautiful, and powerful code  
+- 🕊️ Harmony between art and logic  
+- 🌟 Building experiences that touch the soul  
+
+---
+
+<div align="center">
+
+### 🌠 “In the paradise of code, every bug is a legend and every commit is a star.”
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fad0c4,50:fbc2eb,100:a18cd1&height=120&section=footer" width="100%"/>
+
+**Welcome to the Court of HeraPV**  
+*May your code be as eternal as the stars of Olympus* ✨
+
+</div>
