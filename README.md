@@ -3,7 +3,7 @@
 # ✨ 𝐻𝑒𝓇𝒶𝒫𝒱 ✨  
 ### 🦚 Queen of the Digital Olympus 🦚
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a18cd1,50:fbc2eb,100:fad0c4&height=200&section=header&text=HeraPV&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20the%20Heavenly%20Realm&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a18cd1,50:fbc2eb,100:fad0c4&height=200&section=header&text=Hera&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20the%20Heavenly%20Realm&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
